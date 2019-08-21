@@ -11,3 +11,4 @@ package movestack is
 	procedure Reallocation(Item: in MyType; Status: out boolean);
 	procedure move;
 end movestack;
+
